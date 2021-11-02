@@ -1,0 +1,1 @@
+export const icon = 'https://firebasestorage.googleapis.com/v0/b/fag-app-6d7d9.appspot.com/o/products%2FGroup%2020.png?alt=media&token=2192e8f7-6fdd-4b97-8d99-ed49af809661'
